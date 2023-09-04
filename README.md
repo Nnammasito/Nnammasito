@@ -4,9 +4,9 @@
 <!--
 **Nnammasito/Nnammasito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
-- 🌱 Actualmente estoy aprendiendo junto a Coding Dojo Como desarrollador Full Stack C#
+Actualmente estoy aprendiendo junto a Coding Dojo Como desarrollador Full Stack C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
