@@ -1,5 +1,5 @@
   ### Hola, mi nombre es Nicolás González Huemur 👋
-  ### Sociológo, Analista de Datos y Desarrollador Full Stack C#
+  ### Sociológo, Analista de Datos y Desarrollador Full Stack C# en Formación
 
 <!--
 **Nnammasito/Nnammasito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
